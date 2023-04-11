@@ -7,8 +7,8 @@ class Programa
     {
         Console.WriteLine("Criando Variáveis");
         double salario;
-        salario = 3000.15;
-        Console.WriteLine("Meu salário é R$" + salario);
+        salario = 3000.25;
+        Console.WriteLine("Meu salário é de R$ " + salario);
 
         // short = guarta até 16 bites = 16k e um pouquinho
         short curto;
@@ -18,7 +18,7 @@ class Programa
         // int suport até 32 bites
         int salarioInteiro;
         salarioInteiro = 2000;
-        Console.WriteLine("salarioInteiro " + salarioInteiro);
+        Console.WriteLine("salario Inteiro " + salarioInteiro);
 
         //clong consegue guardar até 64 bites
         long valorLongo;
