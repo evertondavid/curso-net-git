@@ -32,7 +32,7 @@ class Programa
         Console.WriteLine("altura " + altura);
 
   
-        Console.WriteLine("Precione enter para avançar...");
+        Console.WriteLine("Precione a teccla enter para avançar...");
         Console.ReadLine();
 
     }
