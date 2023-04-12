@@ -12,7 +12,7 @@ class Programa
         double salario2;
         salario2 = 7.0 / 5;
         Console.WriteLine("Meu salário é " + salario2);
-        Console.WriteLine("Precione enter para avançar...");
+        Console.WriteLine("Precione enter para avançar!");
         Console.ReadLine();
 
     }
