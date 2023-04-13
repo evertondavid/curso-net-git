@@ -33,7 +33,7 @@ class Programa
 
   
         Console.WriteLine("Precione a teccla enter para avançar...");
-        Console.WriteLine("Solution Everton...");
+        Console.WriteLine("Solution .NET Everton...");
         Console.ReadLine();
 
     }
