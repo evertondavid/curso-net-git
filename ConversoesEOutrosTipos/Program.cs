@@ -34,7 +34,11 @@ class Programa
   
         Console.WriteLine("Precione a teccla enter para avançar...");
         Console.WriteLine("Solution .NET Everton...");
+<<<<<<< HEAD
         Console.WriteLine("Branch Everton...");
+=======
+        Console.WriteLine("Branch Samanta...");
+>>>>>>> 7191366 (adicionado linha com o texto Branch Samanta)
         Console.ReadLine();
 
     }
